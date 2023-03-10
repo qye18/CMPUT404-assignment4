@@ -12,4 +12,8 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+no collaboration
 
+Refenreces
+======================
+get a random color: https://css-tricks.com/snippets/javascript/random-hex-color/
